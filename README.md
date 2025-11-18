@@ -95,6 +95,7 @@ RSA digital signature
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 --------------------------------------------------------------------------
 
 Axepta Online – Module de paiement Magento 2
