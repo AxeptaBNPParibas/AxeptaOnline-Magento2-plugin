@@ -84,7 +84,7 @@ A failed verification means the file may have been tampered with.
 
 Download the latest release here:
 
-📥 Download Latest Release
+[📥 Download Latest Release](../../releases/latest)
 
 Each release includes:
 
@@ -183,7 +183,7 @@ Une vérification échouée signifie que le fichier a pu être altéré.
 
 Téléchargez la dernière version ici :
 
-📥 Téléchargez la dernière version
+[📥 Téléchargez la dernière version](../../releases/latest)
 
 Chaque version contient :
 
