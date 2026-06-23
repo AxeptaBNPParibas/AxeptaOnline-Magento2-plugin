@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=8.2-blue)
-![Magento](https://img.shields.io/badge/Magento-2.4%2B-orange)
+![Magento](https://img.shields.io/badge/Magento-2.4.8-orange)
 [![Release](https://img.shields.io/badge/Release-2.0.0-blue)](../../releases/latest)
 ![Downloads](https://img.shields.io/badge/Downloads-0-lightgrey)
 
@@ -102,7 +102,7 @@ Axepta Online – Module de paiement Magento 2
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=8.2-blue)
-![Magento](https://img.shields.io/badge/Magento-2.4%2B-orange)
+![Magento](https://img.shields.io/badge/Magento-2.4.8-orange)
 [![Release](https://img.shields.io/badge/Release-2.0.0-blue)](../../releases/latest)
 ![Downloads](https://img.shields.io/badge/Downloads-0-lightgrey)
 
